@@ -34,4 +34,34 @@
   .heading, .paragraph{
     margin: 0px;
   }
-  
+  .pages{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 200px;
+    color: black;
+  }
+  .twodivs{
+    display: flex;
+  }
+  .ourpages{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 200px;
+    color: black;
+  }
+  /* .somelinks{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 200px;
+    color: black;
+  }
+.aboutus{
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin-left: 200px;
+    color: black;
+} */

@@ -9,3 +9,26 @@
 #creating{
     font-size: 15px;
 }
+.navbar{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    text-align: right;
+    justify-content: center;
+  }
+  .list, a{
+    display: flex;
+    padding: 5px;
+    gap:50px ;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+  }
+  .history{
+    height: 300px;
+    width: 700px;
+    line-height: 1.5;
+    border: 1px solid black;
+  }
+  

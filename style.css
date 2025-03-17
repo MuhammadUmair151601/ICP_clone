@@ -68,3 +68,18 @@
 .following, a{
  line-height: 0.5;
 }
+.fourdivs{
+  display: flex;
+  height: 200px;
+  width: 100%;
+  border: 1px solid black;
+  margin-top: 10px;
+  gap: 60px;
+}
+.label{
+  margin: 10px;
+  border: 1px solid black;
+  height: 190px;
+  width: 250px;
+  gap: 50px;
+}

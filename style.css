@@ -26,8 +26,8 @@
     list-style: none;
   }
   .history{
-    height: 300px;
-    width: 700px;
+    height: 350px;
+    width: 1100px;
     line-height: 1.5;
     border: 1px solid black;
   }
@@ -46,22 +46,25 @@
   }
   .ourpages{
     border: 1px solid black;
-    height: 300px;
+    height: 350px;
     width: 400px;
-    margin-left: 200px;
+    margin-left: 150px;
     color: black;
   }
-  /* .somelinks{
-    border: 1px solid black;
-    height: 300px;
-    width: 400px;
-    margin-left: 200px;
-    color: black;
-  }
+.ourpages{
+  background-color: rgb(252, 248, 248);
+}
+.lists,a{
+  color: black;
+  list-style: none;
+}
 .aboutus{
-    border: 1px solid black;
-    height: 300px;
-    width: 400px;
-    margin-left: 200px;
-    color: black;
-} */
+  margin-left: 40px;
+}
+.aboutP{
+  margin: 10px;
+  margin-left: 40px;
+}
+.following, a{
+ line-height: 0.5;
+}

@@ -78,3 +78,15 @@
   width: 250px;
   gap: 50px;
 }
+@media screen and (max-width:720px) {
+   .container{
+    margin: auto;
+    padding: auto;
+    flex-direction: column;
+   }
+   .fourdivs{
+    margin: auto;
+    padding: auto;
+    flex-direction: column;
+   }
+}
